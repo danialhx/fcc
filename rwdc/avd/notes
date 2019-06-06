@@ -1,3 +1,23 @@
+/*
 .name for class="name"
 #name for id="name"
 name for tags <name>
+*/
+
+/*
+using css to float 2 items side by side
+<style>
+#left{
+float:left;
+}
+#right{
+float:right;
+}
+
+</style>
+<section id="left">
+left</section>
+
+<section id="right">
+right</section>
+*/
